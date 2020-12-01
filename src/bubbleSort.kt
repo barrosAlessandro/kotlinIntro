@@ -1,5 +1,5 @@
 fun main() {
-    val lista = intArrayOf(12, 12, 3, 15, 5, 1, 0, 8)
+    val lista = intArrayOf(2, 122, 3, 15, 5, 10, 0, 8, 15, 5)
     val n: Int = lista.size // tamanho do array
     println("Número de elementos para ordenar: $n")
     for (j in 0 until n - 1) {
