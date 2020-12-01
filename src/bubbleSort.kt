@@ -17,5 +17,5 @@ fun main() {
                 print(" $element")
         }
     }
-    print(" <<< Array ordenado")
+    print(" <<< New array")
 }
